@@ -4,8 +4,8 @@ WAFER MAP ANALYSIS SUMMARY REPORT - RADIAL SPLINE VERSION
 
 DATASET OVERVIEW:
 ----------------------------------------
-DMT-TFK Comparisons: 124 matched pairs
-  Wafers: AANBD234TEC0, AANBD247TEE4, AANBD258TEF7, AANBD260TEF7
+DMT-TFK Comparisons: 248 matched pairs
+  Wafers: AANBD134TEC7, AANBD198TEC5, AANBD221TEG7, AANBD224TEE7, AANBD234TEC0, AANBD247TEE4, AANBD258TEF7, AANBD260TEF7
 BTM-DMT Comparisons: 496 matched pairs
   Wafers: AANBD159TED5, AANBD160TEG6, AANBD182TEC1, AANBD183TEG3, AANBD202TEC1, AANBD204TED2, AANBD216TEB4, AANBD252TEC4, AHJYE733TMA3, GD2SM303JKA0, GD2SM325JKC6, GD2SM381JKF3, GD7LB587JKG0, GD7LB589JKH1, GD7LB591JKH1, WMCTE191ESB7
 BTM-TFK Comparisons: 256 matched pairs
@@ -16,11 +16,11 @@ LOCATION ANALYSIS:
 Total measurement locations analyzed: 94
 
 DMT-TFK - Top 5 Highest Delta Locations:
-  ( 141.0,  -36.0) mm:   -25.7 ±   4.4 Å
-  ( -57.0,  135.0) mm:    23.3 ±   9.4 Å
-  (  18.0,   18.0) mm:    19.4 ±   1.1 Å
-  (-135.0,   57.0) mm:    18.1 ±   5.0 Å
-  ( -57.0,   18.0) mm:    16.8 ±   0.7 Å
+  ( 141.0,  -36.0) mm:   -25.4 ±   3.1 Å
+  ( -57.0,  135.0) mm:    22.2 ±   6.8 Å
+  (  18.0,   18.0) mm:    19.3 ±   2.1 Å
+  (   0.0,    0.0) mm:    19.1 ±   5.8 Å
+  (-135.0,   57.0) mm:    18.9 ±   4.1 Å
 
 BTM-DMT - Top 5 Highest Delta Locations:
   (-136.2,   57.9) mm:    22.3 ±   4.7 Å
@@ -58,12 +58,20 @@ BTM Tool:
   WMCTE191ESB7:  3348.3 ±  20.9 Å (31 points)
 
 DMT Tool:
+  AANBD134TEC7: 11424.5 ±  68.4 Å (31 points)
+  AANBD198TEC5: 11383.5 ±  70.7 Å (31 points)
+  AANBD221TEG7: 11421.2 ±  68.0 Å (31 points)
+  AANBD224TEE7: 11385.3 ±  72.1 Å (31 points)
   AANBD234TEC0: 11443.5 ±  66.7 Å (31 points)
   AANBD247TEE4: 11404.3 ±  79.6 Å (31 points)
   AANBD258TEF7: 11432.4 ±  66.3 Å (31 points)
   AANBD260TEF7: 11416.6 ±  82.2 Å (31 points)
 
 TFK Tool:
+  AANBD134TEC7: 11413.5 ±  65.5 Å (31 points)
+  AANBD198TEC5: 11370.6 ±  66.6 Å (31 points)
+  AANBD221TEG7: 11409.0 ±  64.4 Å (31 points)
+  AANBD224TEE7: 11372.1 ±  67.2 Å (31 points)
   AANBD234TEC0: 11433.2 ±  63.0 Å (31 points)
   AANBD247TEE4: 11394.3 ±  76.0 Å (31 points)
   AANBD258TEF7: 11421.5 ±  61.1 Å (31 points)
