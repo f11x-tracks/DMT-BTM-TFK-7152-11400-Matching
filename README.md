@@ -131,6 +131,12 @@ Each comparison generates:
 - **Thickness Units**: Angstrom (Å) for all tools
 - **Matching Algorithm**: Euclidean distance using scipy.spatial.distance.cdist
 
+### DMT Edge Correction
+- **Edge Radius Threshold**: 146mm (measurements at radius > 146mm are considered edge sites)
+- **Edge Correction**: +125 Å applied to DMT thickness measurements at edge locations
+- **Purpose**: Compensates for systematic measurement bias in DMT readings at wafer edge
+- **Application**: Only applies to DMT vs TFK comparisons; correction is applied before calculating thickness deltas
+
 ## Results Interpretation
 
 ### Thickness Delta

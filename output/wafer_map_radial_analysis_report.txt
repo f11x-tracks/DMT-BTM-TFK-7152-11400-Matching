@@ -16,11 +16,11 @@ LOCATION ANALYSIS:
 Total measurement locations analyzed: 94
 
 DMT-TFK - Top 5 Highest Delta Locations:
-  ( -57.0, -135.0) mm:   -98.5 ±  11.7 Å
-  (  57.0, -135.0) mm:   -97.8 ±   8.2 Å
-  (-135.0,  -57.0) mm:   -93.2 ±   7.9 Å
-  (-135.0,   57.0) mm:   -86.9 ±   5.0 Å
-  ( -57.0,  135.0) mm:   -81.7 ±   9.4 Å
+  ( 141.0,  -36.0) mm:   -25.7 ±   4.4 Å
+  ( -57.0,  135.0) mm:    23.3 ±   9.4 Å
+  (  18.0,   18.0) mm:    19.4 ±   1.1 Å
+  (-135.0,   57.0) mm:    18.1 ±   5.0 Å
+  ( -57.0,   18.0) mm:    16.8 ±   0.7 Å
 
 BTM-DMT - Top 5 Highest Delta Locations:
   (-136.2,   57.9) mm:    22.3 ±   4.7 Å
@@ -58,10 +58,10 @@ BTM Tool:
   WMCTE191ESB7:  3348.3 ±  20.9 Å (31 points)
 
 DMT Tool:
-  AANBD234TEC0: 11426.6 ±  67.6 Å (31 points)
-  AANBD247TEE4: 11387.4 ±  83.1 Å (31 points)
-  AANBD258TEF7: 11415.5 ±  67.0 Å (31 points)
-  AANBD260TEF7: 11399.6 ±  83.9 Å (31 points)
+  AANBD234TEC0: 11443.5 ±  66.7 Å (31 points)
+  AANBD247TEE4: 11404.3 ±  79.6 Å (31 points)
+  AANBD258TEF7: 11432.4 ±  66.3 Å (31 points)
+  AANBD260TEF7: 11416.6 ±  82.2 Å (31 points)
 
 TFK Tool:
   AANBD234TEC0: 11433.2 ±  63.0 Å (31 points)
