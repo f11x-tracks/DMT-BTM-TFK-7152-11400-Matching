@@ -1,0 +1,87 @@
+================================================================================
+WAFER MAP ANALYSIS SUMMARY REPORT - CONTOUR VERSION
+================================================================================
+
+DATASET OVERVIEW:
+----------------------------------------
+DMT-TFK Comparisons: 124 matched pairs
+  Wafers: AANBD234TEC0, AANBD247TEE4, AANBD258TEF7, AANBD260TEF7
+BTM-DMT Comparisons: 496 matched pairs
+  Wafers: AANBD159TED5, AANBD160TEG6, AANBD182TEC1, AANBD183TEG3, AANBD202TEC1, AANBD204TED2, AANBD216TEB4, AANBD252TEC4, AHJYE733TMA3, GD2SM303JKA0, GD2SM325JKC6, GD2SM381JKF3, GD7LB587JKG0, GD7LB589JKH1, GD7LB591JKH1, WMCTE191ESB7
+BTM-TFK Comparisons: 256 matched pairs
+  Wafers: AANBD159TED5, AANBD160TEG6, AANBD182TEC1, AANBD183TEG3, AANBD202TEC1, AANBD204TED2, AANBD216TEB4, AANBD252TEC4
+
+LOCATION ANALYSIS:
+----------------------------------------
+Total measurement locations analyzed: 94
+
+DMT-TFK - Top 5 Highest Delta Locations:
+  ( -57.0, -135.0) mm:   -98.5 ±  11.7 Å
+  (  57.0, -135.0) mm:   -97.8 ±   8.2 Å
+  (-135.0,  -57.0) mm:   -93.2 ±   7.9 Å
+  (-135.0,   57.0) mm:   -86.9 ±   5.0 Å
+  ( -57.0,  135.0) mm:   -81.7 ±   9.4 Å
+
+BTM-DMT - Top 5 Highest Delta Locations:
+  (-136.2,   57.9) mm:    22.3 ±   4.7 Å
+  (-136.2,  -57.9) mm:    21.9 ±   3.5 Å
+  ( -57.9, -136.2) mm:    21.5 ±   4.0 Å
+  (  57.9, -136.2) mm:    21.2 ±   4.2 Å
+  ( -57.9,  136.2) mm:    20.9 ±   4.5 Å
+
+BTM-TFK - Top 5 Highest Delta Locations:
+  ( 141.9,  -35.9) mm:   -30.1 ±   9.0 Å
+  (  71.2,  127.4) mm:   -26.7 ±   8.6 Å
+  (   0.0, -134.7) mm:   -26.6 ±   7.2 Å
+  ( -96.5,   96.5) mm:   -26.5 ±   7.9 Å
+  (  96.5,  -96.5) mm:   -26.3 ±   8.0 Å
+
+TOOL STATISTICS BY WAFER:
+----------------------------------------
+
+BTM Tool:
+  AANBD159TED5:  3334.3 ±   7.5 Å (31 points)
+  AANBD160TEG6:  3334.8 ±   7.5 Å (31 points)
+  AANBD182TEC1:  3350.4 ±  12.4 Å (31 points)
+  AANBD183TEG3:  3360.7 ±   7.6 Å (31 points)
+  AANBD202TEC1:  3346.5 ±  12.1 Å (31 points)
+  AANBD204TED2:  3358.7 ±   7.3 Å (31 points)
+  AANBD216TEB4:  3360.1 ±   7.6 Å (31 points)
+  AANBD252TEC4:  3357.6 ±   7.4 Å (31 points)
+  AHJYE733TMA3:  3368.1 ±  11.1 Å (31 points)
+  GD2SM303JKA0:  3347.0 ±  23.7 Å (31 points)
+  GD2SM325JKC6:  3359.7 ±  10.6 Å (31 points)
+  GD2SM381JKF3:  3364.6 ±  11.6 Å (31 points)
+  GD7LB587JKG0:  3358.1 ±  11.0 Å (31 points)
+  GD7LB589JKH1:  3347.9 ±  21.3 Å (31 points)
+  GD7LB591JKH1:  3349.3 ±  18.6 Å (31 points)
+  WMCTE191ESB7:  3348.3 ±  20.9 Å (31 points)
+
+DMT Tool:
+  AANBD234TEC0: 11426.6 ±  67.6 Å (31 points)
+  AANBD247TEE4: 11387.4 ±  83.1 Å (31 points)
+  AANBD258TEF7: 11415.5 ±  67.0 Å (31 points)
+  AANBD260TEF7: 11399.6 ±  83.9 Å (31 points)
+
+TFK Tool:
+  AANBD234TEC0: 11433.2 ±  63.0 Å (31 points)
+  AANBD247TEE4: 11394.3 ±  76.0 Å (31 points)
+  AANBD258TEF7: 11421.5 ±  61.1 Å (31 points)
+  AANBD260TEF7: 11406.0 ±  77.8 Å (31 points)
+
+CONTOUR PLOT FEATURES:
+----------------------------------------
+• Smooth interpolated surfaces showing spatial trends
+• White dots overlay showing actual measurement locations
+• Contour lines with value labels for precise reading
+• Color scales optimized for each measurement type
+• High delta locations marked with yellow stars
+
+COORDINATE SYSTEM NOTES:
+----------------------------------------
+• Each thickness map uses its tool's native coordinate system
+• TFK thickness maps now use TFK coordinates for consistency
+• Different tool comparisons may include different measurement subsets
+• This is expected due to different matching criteria and algorithms
+
+================================================================================
